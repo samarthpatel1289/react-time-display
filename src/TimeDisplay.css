@@ -1,0 +1,9 @@
+.time-display {
+  /* Additional styling specific to the time display component */
+}
+
+.time-display h1,
+.time-display p {
+  margin: 0; /* Remove default margins */
+  padding: 0.5rem;
+}
